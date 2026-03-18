@@ -3,8 +3,7 @@
 # Papiflix 🎥🍿
 
 **Modo Teatro / Cinema para DLive.tv**  
-
-![Papiflix modo teatro]([https://via.placeholder.com/800x450.png?text=Papiflix+em+Ação](https://s13.gifyu.com/images/bmQEN.gif))
+[![Papiflix modo teatro](https://s13.gifyu.com/images/bmQEN.gif)](https://gifyu.com/image/bmQEN)
 
 ## O que o Papiflix faz?
 
