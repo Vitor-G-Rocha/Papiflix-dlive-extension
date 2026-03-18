@@ -1,10 +1,7 @@
 # Papiflix-dlive-extension
 
 # Papiflix 🎥🍿
-
 **Modo Teatro / Cinema para DLive.tv**  
-![Papiflix em Ação - Modo Teatro ativado](https://s13.gifyu.com/images/bmQEN.gif)
-<img src="https://s13.gifyu.com/images/bmQEN.gif" alt="Papiflix">
 
 ## O que o Papiflix faz?
 
