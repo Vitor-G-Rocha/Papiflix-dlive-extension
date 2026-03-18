@@ -8,7 +8,7 @@
 - Ativa um **modo teatro/cinema** limpo e imersivo no DLive
 - Esconde elementos desnecessários da interface
 - Aumenta o player de vídeo para aproveitar melhor a tela
-- Mantém a experiência fluida para assistir filmes, animes, séries ou qualquer conteúdo que o streamer esteja passando
+- Mantém a experiência fluida para assistir filmes
 - Leve, sem anúncios extras e sem coletar dados
   
 ## Recursos planejados / já implementados
